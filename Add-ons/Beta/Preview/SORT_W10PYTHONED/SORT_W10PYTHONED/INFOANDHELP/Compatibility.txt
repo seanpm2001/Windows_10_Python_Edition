@@ -1,0 +1,4 @@
+Operating systems not compatible
+Windows 3.51 and below
+Mac System 5 and below
+Other/Unknown

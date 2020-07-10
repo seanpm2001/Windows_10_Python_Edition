@@ -1,0 +1,8 @@
+This basic add-on is a software package that is an already set-up directory/library for the windows
+10 python editon beta versions to be stored in. The names and versions are random, and this direct-
+-ory will help you sort them. Very easy to do, very little space, and works with any operating sys-
+-them that can: 
+have file extensions longer than 8 characters
+have file extensions that contain small, large, and vice vera letters
+read text files
+open zip files

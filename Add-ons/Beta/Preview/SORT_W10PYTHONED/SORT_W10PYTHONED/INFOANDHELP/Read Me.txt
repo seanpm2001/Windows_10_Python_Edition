@@ -1,0 +1,13 @@
+Thank you for downloading this extension about sorting beta versions of our program
+Windows 10 Python Edition!
+This program is a directory to store the 10 beta versions of the program, since the name
+and versions can be tricky at times
+Please do not redistribute this software without these 3 files in the INFOANDHELP directory:
+Compatibility.txt
+Read Me.txt
+Sorting Help.txt
+This package is open-source and can be moved, downloaded, and installed on any
+computer that it works with!
+Thank you for downloading!
+Now get the Beta version files in here, and we have directories (folders) to help
+you store them!
