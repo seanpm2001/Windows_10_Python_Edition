@@ -34,12 +34,12 @@ recycle_bin_window = object
 #is made in python
 file_explorer_shortcut_icon = object
 
-#this is going to be a LEGIT® windows parody, not just
+#this is going to be a LEGITÂ® windows parody, not just
 #a poorly made flash animation from 2005
 file_explorer_window = object
 
 #within the file explorer: in quick access tab, file is
-#also openable, as this is a LEGIT® windows parody
+#also openable, as this is a LEGITÂ® windows parody
 #this button closes all windows, since there is no
 #way to put files on this, because there is no virtual
 #hard disk, and i can't add an entire window with stuff
@@ -47,34 +47,34 @@ file_explorer_window = object
 desktop_quick_access_button = object
 
 #within the file explorer: in quick access tab, file is
-#also openable, as this is a LEGIT® windows parody
+#also openable, as this is a LEGITÂ® windows parody
 #this will lead to your downloads folder, which will contan
 #the next 3 objects i am going to define
 downloads_quick_access_button = object
 
 #within the file explorer: in downloads tab, file is
-#also openable, as this is a LEGIT® windows parody
+#also openable, as this is a LEGITÂ® windows parody
 #this file just causes a bluescreen, since this is a 
 #fake virtual virus that isn't in a virtual machine
 #object 1 of 3 of the downloads directory
 auto_execute_dot_bat_shortcut_icon = object
 
 #within the file explorer: in downloads tab, file is
-#also openable, as this is a LEGIT® windows parody
+#also openable, as this is a LEGITÂ® windows parody
 #this file deletes all web browsers, and you can get
 #them back if you restart
 #object 2 of 3 of the downloads directory
 web_killer_dot_exe_shortcut_icon = object
 
 #within the file explorer: in downloads tab, file is
-#also openable, as this is a LEGIT® windows parody
+#also openable, as this is a LEGITÂ® windows parody
 #this file will give you a blue screen, as a lesson
 #to people in the world who actually fall for this
 #object 3 of 3 of the downloads directory
 youtube_dot_com_dot_ink_dot_exe_shortcut_icon = object
 
 #within the file explorer: in quick access tab, file is
-#also openable, as this is a LEGIT® windows parody
+#also openable, as this is a LEGITÂ® windows parody
 #this button opens a document panel full of corrupt 
 #documents, that when opened, will just cause an error
 #message to come up, to teach people about file extensions
@@ -121,7 +121,7 @@ a_brief_history_of_my_life_dot_html5 = object
 error_corrupt_file_extension_error_window = object
 
 #within the file explorer: in quick access tab, file is
-#also openable, as this is a LEGIT® windows parody
+#also openable, as this is a LEGITÂ® windows parody
 #this button opens a picture panel full of corrupt 
 #picture, that when opened, will just cause an error
 #message to come up, to teach people about file extensions
