@@ -6,6 +6,8 @@
 # Windows_10_Python_Edition
 The old Windows 10 Python edition project I worked on, as an end of year project for my Python programming class. Official site is here: https://sites.google.com/view/windows10pythonedition/home
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 # README Index
@@ -40,11 +42,21 @@ The old Windows 10 Python edition project I worked on, as an end of year project
 
 [10.0 - Contributers](#Contributers)
 
-[11.0 - Contributing](#Contributing)
+[11.0 - Codeskulptor](#Codeskulptor)
 
-[12.0 - README info](#README-info)
+[12.0 - Known Issues](#Known-issues)
 
-[11.0 - Footer](#End-of-README-file)
+[13.0 - Other notes](#Other-notes)
+
+[14.0 - Contributing](#Contributing)
+
+[15.0 - README info](#README-info)
+
+[16.0 - README version history](#README-version-history)
+
+[17.0 - Footer](#End-of-README-file)
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ***
 
@@ -52,23 +64,32 @@ The old Windows 10 Python edition project I worked on, as an end of year project
 
 See above
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 ## Project Wiki
 
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/Windows_10_Python_Edition/Wiki/)
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 ## Significance
 
 This was my end of year Python assignment for chapter 5 of my first year of Python classes. It is also my first Python program to utilize 3D graphics, however I did poorly on this. When I originally made this, I only got it to work on [Codeskulptor 3](https://py3.codeskulptor.org/) but no-where else.
+This project posed a challenge for me at the time, and I need to do more really challenging work again to train myself better.
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ***
 
 ## Build-names
 
 For the first 10 builds, the project didn't have an official name yet, besides being a python project for chapter 5 of my Python class.
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ### First 10 builds
 
@@ -93,6 +114,8 @@ Here are the name for the first 10 builds. They are called `Beta` as in 2018, I 
 9. corrupt 5.54.txt (Also called R1 Build #$%--*  this is the ninth version of the project. It comes in Plain Text (.txt) format, and needs to be converted to Python format (.py) before running) it is labeled as "Corrupted" but actually just doesn't run. It is also regarded as build 9C at times, but it is actually 8C (C in this instance stands for corrupt, which in turn means "won't run") I had a build system and I would fall back on other versions. This version is just useless.
 
 10. EDHESIVE ASSIGNMENT 5.55.txt (Also called R1 Build 9, this is the ninth version of the project. It comes in Plain Text (.txt) format, and needs to be converted to Python format (.py) before running)
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ### R2 builds
 
@@ -122,11 +145,15 @@ Here is a list of the R2 builds:
 
 19. Windows 10 Python Edition Version 18 (This is the 19th version of the project, and the last version until the long Hiatus. It is also the largest build, with over 200 megabytes of files, a massive jump from the previous build. All files still need to be converted from TXT to PY (not READMEs, only files with Python syntax))
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 ## Add-ons
 
 Add-ons are directories that are extras for the project that can be copied to the root of the build to get new features. Currently, there are 4 add-ons for this project:
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ### Add-ons for Beta (R1) versions
 
@@ -138,6 +165,8 @@ There are currently 2 add-ons for beta versions. They include:
 
 3. No other add-ons for Beta R1 versions at the moment.
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ### Add-ons for Alpha (R2) versions
 
 There are currently 2 add-ons for Alpha versions. They include:
@@ -147,6 +176,8 @@ There are currently 2 add-ons for Alpha versions. They include:
 2. License pack (Contains GNU GPL3 and Creative Commons ShareALike Attributions 4.0 licenses)
 
 3. No other add-ons for Alpha R2 versions at the moment.
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ***
 
@@ -158,6 +189,8 @@ There is 1 build that requires a password to be extracted (Python Project 5 R2.0
 
 The password is: `winthon204`
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 ## Version history
@@ -166,15 +199,61 @@ Unavailable
 
 [More versions coming soon](https://github.com/seanpm2001/Windows_10_Python_Edition/releases/)
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
+***
+
+## Codeskulptor
+
+I have not gotten this program to work in regular Python yet, but I have gotten it to work on the python 3 Codeskulptor website. You can test it [here](https://py3.codeskulptor.org).
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
+***
+
+## Known issues
+
+There are some known issues with this project. They include:
+
+1. A lot of directories have an unnecessary `(1)` in their name. A duplication error happened a long time ago, and I chose to keep it in so that I could make a complete archive
+
+2. Most of the scripts do not work, some only work with codeskulptor [see above](#Codeskulptor).
+
+3. No other known issues at the moment.
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
+***
+
+## Other notes
+
+1. Back when I made this, I didn't know that Iot was spelled with an i, I thought it was spelled with an L and I didn't know what it meant.
+
+2. There are several files and directories with (1) in the name. This was an error that made its way into many versions, out of a duplication error
+
+3. The R1 directory contains the first 10 versions of the project, the R2 directory contains later builds
+
+4. Most Python files aren't functional.
+
+5. This project was originally just an end of year Python project, but its purpose was expanded.
+
+6. Once I learned how to upload directories to GitHub, the next day, I applied this skill to this project, and it helped boost development significantly.
+
+7. No other notes at the moment
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 ## Contributers
 
 Currently, I am the only contributer, but if you follow ther CONTRIBUTING rules, you can contribute as well.
 
-1. [seanpm2001](https://github.com/seanpm2001/) - 192 commits (As of Thursday, July 9th 2020 at 5:46 pm)
+1. [seanpm2001](https://github.com/seanpm2001/) - 774 commits (As of Monday, August 10th 2020 at 6:10 pm)
 
 2. No other contributers at the moment
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ***
 
@@ -182,15 +261,19 @@ Currently, I am the only contributer, but if you follow ther CONTRIBUTING rules,
 
 Please abide by the contributing rules for this project. They are listed [here.](https://github.com/seanpm2001/Windows_10_Python_Edition/blob/master/CONTRIBUTING.md)
 
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 ## README info
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines): `265`
+Line count (including blank lines and compiler line): `379`
 
-File version: `2 (Thursday, July 9th 2020 at 5:46 pm)`
+File version: `3 (Monday, August 10th 2020 at 6:10 pm)`
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ***
 
@@ -242,12 +325,27 @@ File version: `2 (Thursday, July 9th 2020 at 5:46 pm)`
 
 > * Added the README version history section
 
-* Version 3 (Coming soon)
+* Version 3 (Monday, August 10th 2020 at 6:10 pm)
 
 > Changes:
 
-> * Coming soon!
+> * Updated the index
 
+> * Updated the README info section
+
+> * Updated the README Version history section
+
+> * Updated the significance section
+
+> * Added the Codeskulptor section
+
+> * Added the Known issues section
+
+> * Added the Other notes section
+
+> * Updated the contributers section
+
+> * Updated all other sections with a modification date line
 
 * Version 4 (Coming soon)
 
@@ -255,10 +353,26 @@ File version: `2 (Thursday, July 9th 2020 at 5:46 pm)`
 
 > * Coming soon!
 
+* Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon!
+
+* Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon!
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
+
 ***
 
 ### End of README file
 
 ( [Back to top](#Top) | [Exit](https://github.com) )
+
+**This section was last updated on August 10th 2020 (08.10.2020)**
 
 ***
